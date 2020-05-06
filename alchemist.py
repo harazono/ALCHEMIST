@@ -321,7 +321,7 @@ def main():
 	
 
 	screen = pygame.display.set_mode((2 * l_mergin + (card_size_x + x_mergin) * x_full_size, 2 * t_mergin + (card_size_y + y_mergin) * y_full_size))
-	pygame.display.set_caption("Pygame Test Window")
+	pygame.display.set_caption("ALCHEMIST")
 	screen.fill(Green)
 
 	mycard = []
